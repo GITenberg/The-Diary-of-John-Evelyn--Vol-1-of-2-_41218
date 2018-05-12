@@ -1,0 +1,45 @@
+_repo: The-Diary-of-John-Evelyn--Vol-1-of-2-_41218
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Garnett, Richard
+    alias: Trent, A. G.
+    birthdate: 1835
+    deathdate: 1906
+    gutenberg_agent_id: '3305'
+    url: http://www.gutenberg.org/2009/agents/3305
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Garnett_%28writer%29
+covers:
+- cover_type: archival
+  image_path: 41218-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Evelyn, John
+    birthdate: 1620
+    deathdate: 1706
+    gutenberg_agent_id: '6100'
+    url: http://www.gutenberg.org/2009/agents/6100
+    wikipedia: http://en.wikipedia.org/wiki/John_Evelyn
+  editor:
+    agent_name: Bray, William
+    birthdate: 1736
+    deathdate: 1832
+    gutenberg_agent_id: '834'
+    url: http://www.gutenberg.org/2009/agents/834
+description: ''
+gutenberg_issued: '2012-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41218'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evelyn, John, 1620-1706 -- Diaries'
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714'
+- !lcsh 'Great Britain -- Social life and customs -- Early works to 1800'
+- !lcsh 'Great Britain -- Court and courtiers -- Early works to 1800'
+- !lcc 'DA'
+title: The Diary of John Evelyn (Volume 1 of 2)
+url: http://www.gutenberg.org/ebooks/41218
